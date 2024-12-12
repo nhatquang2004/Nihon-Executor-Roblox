@@ -12,6 +12,7 @@ To get started with Nihon Executor, follow these simple steps:
 
 
 
+
 ![Nihon Executor Preview](/assets/maanvilro.gif)
 
 ## Table of Contents
